@@ -1,4 +1,4 @@
-public class aryan
+public class haryan
 {
 	public static void main(String []args)
 	{
